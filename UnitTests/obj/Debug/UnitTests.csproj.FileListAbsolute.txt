@@ -1,0 +1,8 @@
+F:\Programowanie\UnitTests\UnitTests\UnitTests\bin\Debug\UnitTests.dll
+F:\Programowanie\UnitTests\UnitTests\UnitTests\bin\Debug\UnitTests.pdb
+F:\Programowanie\UnitTests\UnitTests\UnitTests\bin\Debug\nunit.framework.dll
+F:\Programowanie\UnitTests\UnitTests\UnitTests\bin\Debug\nunit.framework.xml
+F:\Programowanie\UnitTests\UnitTests\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+F:\Programowanie\UnitTests\UnitTests\UnitTests\obj\Debug\UnitTests.csproj.CoreCompileInputs.cache
+F:\Programowanie\UnitTests\UnitTests\UnitTests\obj\Debug\UnitTests.dll
+F:\Programowanie\UnitTests\UnitTests\UnitTests\obj\Debug\UnitTests.pdb
