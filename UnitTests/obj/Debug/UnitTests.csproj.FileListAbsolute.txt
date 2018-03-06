@@ -6,3 +6,5 @@ F:\Programowanie\UnitTests\UnitTests\UnitTests\obj\Debug\UnitTests.csprojResolve
 F:\Programowanie\UnitTests\UnitTests\UnitTests\obj\Debug\UnitTests.csproj.CoreCompileInputs.cache
 F:\Programowanie\UnitTests\UnitTests\UnitTests\obj\Debug\UnitTests.dll
 F:\Programowanie\UnitTests\UnitTests\UnitTests\obj\Debug\UnitTests.pdb
+F:\Programowanie\UnitTests\UnitTests\UnitTests\bin\Debug\ImpromptuInterface.dll
+F:\Programowanie\UnitTests\UnitTests\UnitTests\bin\Debug\ImpromptuInterface.xml
