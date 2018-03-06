@@ -8,3 +8,12 @@ F:\Programowanie\UnitTests\UnitTests\UnitTests\obj\Debug\UnitTests.dll
 F:\Programowanie\UnitTests\UnitTests\UnitTests\obj\Debug\UnitTests.pdb
 F:\Programowanie\UnitTests\UnitTests\UnitTests\bin\Debug\ImpromptuInterface.dll
 F:\Programowanie\UnitTests\UnitTests\UnitTests\bin\Debug\ImpromptuInterface.xml
+F:\Programowanie\UnitTests\UnitTests\UnitTests\bin\Debug\Castle.Core.dll
+F:\Programowanie\UnitTests\UnitTests\UnitTests\bin\Debug\Moq.dll
+F:\Programowanie\UnitTests\UnitTests\UnitTests\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\Programowanie\UnitTests\UnitTests\UnitTests\bin\Debug\System.ValueTuple.dll
+F:\Programowanie\UnitTests\UnitTests\UnitTests\bin\Debug\Castle.Core.xml
+F:\Programowanie\UnitTests\UnitTests\UnitTests\bin\Debug\Moq.pdb
+F:\Programowanie\UnitTests\UnitTests\UnitTests\bin\Debug\Moq.xml
+F:\Programowanie\UnitTests\UnitTests\UnitTests\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\Programowanie\UnitTests\UnitTests\UnitTests\bin\Debug\System.ValueTuple.xml
